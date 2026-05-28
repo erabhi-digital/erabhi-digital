@@ -21,7 +21,6 @@ I’m passionate about building scalable, modern, and user-friendly web applicat
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat\&logo=svelte\&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-000000?style=flat\&logo=svelte\&logoColor=white)
 
----
 
 ## Backend
 
@@ -29,7 +28,7 @@ I’m passionate about building scalable, modern, and user-friendly web applicat
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-092E20?style=flat\&logo=django\&logoColor=white)
 
----
+
 
 ## Digital Marketing & Design
 
@@ -38,7 +37,7 @@ I’m passionate about building scalable, modern, and user-friendly web applicat
 ![Graphic Design](https://img.shields.io/badge/-Graphic_Design-FF61F6?style=flat\&logo=adobe\&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
----
+
 
 ## Tools & Platforms
 
