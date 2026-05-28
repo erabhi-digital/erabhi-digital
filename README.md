@@ -74,47 +74,7 @@ HTML, CSS, JavaScript, Bootstrap, Python, Django, SQLite/MySQL
 
 ---
 
-## 💼 Portfolio Website
 
-🔗 https://erabhi.live
-
-### 📝 Description
-
-A sleek, modern, and fully responsive personal portfolio website designed to showcase my projects, technical skills, and creative work. Built with clean UI principles and optimized for performance across all devices.
-
-### 🛠️ Tech Used
-
-HTML, CSS, JavaScript, Bootstrap
-
----
-
-## ✍️ Blog Website
-
-🔗 https://abhinavjaiswal.pythonanywhere.com/
-
-### 📝 Description
-
-A dynamic and responsive blog platform where users can read, create, and manage blog posts. Django powers the backend logic, authentication, and database management while the frontend ensures an engaging user experience.
-
-### 🛠️ Tech Used
-
-HTML, CSS, JavaScript, Bootstrap, Python, Django
-
----
-
-## 🎨 Templates Repository
-
-🔗 https://github.com/abhi-jais-11/Templates
-
-### 📝 Description
-
-A collection of modern, responsive, and reusable website templates built for developers and businesses. Designed with clean UI/UX practices and optimized for customization and scalability.
-
-### 🛠️ Tech Used
-
-HTML, CSS, JavaScript, Bootstrap
-
----
 
 # 📈 What I Do
 
@@ -135,6 +95,7 @@ HTML, CSS, JavaScript, Bootstrap
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat\&logo=google-chrome\&logoColor=white)](https://erabhi.live)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:erabhi.digital@gmail.com)
+[![Contact](https://img.shields.io/badge/-Contact-25D366?style=flat\&logo=whatsapp\&logoColor=white)](tel:+918957889130)
 
 ---
 
@@ -142,19 +103,4 @@ HTML, CSS, JavaScript, Bootstrap
 
 I love exploring new technologies, building creative digital experiences, and combining development with marketing and design to create impactful products.
 
----
-
-# 🛠️ Setup / Installation
-
-## Prerequisites
-
-Make sure you have installed:
-
-* Git
-* Node.js
-* Python
-* pip
-* PostgreSQL (optional)
-
----
 
